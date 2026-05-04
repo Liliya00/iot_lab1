@@ -126,3 +126,4 @@
 1777903550: New client connected from 192.168.65.1:62311 as mqtt-explorer-93b9c115 (p4, c1, k60).
 1777903550: New connection from 172.21.0.3:53845 on port 1883.
 1777903550: New client connected from 172.21.0.3:53845 as auto-CFFA8A54-DDC7-1DEE-59CE-AE4C189DD8BC (p4, c1, k60).
+1777905351: Saving in-memory database to /mosquitto/data//mosquitto.db.
